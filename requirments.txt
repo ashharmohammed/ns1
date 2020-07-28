@@ -1,0 +1,4 @@
+Flask
+requests
+ns1
+uwsgi
